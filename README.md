@@ -4,10 +4,12 @@
 ## Education
 - **Degree:** Bachelor of Science in Information Technology
 - **Institution:** New Era University 
-- **Graduation Year:** 2022 - Current
+- **School Year:** 2022 - Current
 
 ## Certifications
-- <Certification 1 — Issuer — Year>
+- https://courses.cognitiveclass.ai/certificates/c40984fb91564bfa91cf2d735aab002f
+- 
+- 
 
 ## Skillsets
 - **Programming Languages:**  Java
