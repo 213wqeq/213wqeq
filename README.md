@@ -1,16 +1,19 @@
-## Hi there 👋
+## Name
+- Wendell Fort B. De Jesus
 
-<!--
-**213wqeq/213wqeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+- **Degree:** Bachelor of Science in Information Technology
+- **Institution:** New Era University 
+- **Graduation Year:** 2022 - Current
 
-Here are some ideas to get you started:
+## Certifications
+- <Certification 1 — Issuer — Year>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skillsets
+- **Programming Languages:**  Java
+- **Web Development:**  HTML, CSS
+- **Tools / Platforms:** Git, GitHub 
+- **Other Skills:** Problem-solving, clear communication
+
+
+
