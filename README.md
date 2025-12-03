@@ -2,7 +2,7 @@
 - Wendell Fort B. De Jesus
 
 ## Education
-- **Degree:** Bachelor of Science in Information Technology
+- **Course:** Bachelor of Science in Information Technology
 - **Institution:** New Era University 
 - **School Year:** 2022 - Current
 
