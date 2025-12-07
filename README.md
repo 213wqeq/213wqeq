@@ -7,7 +7,7 @@
 - **School Year:** 2022 - Current
 
 ## Certifications
-- https://courses.cognitiveclass.ai/certificates/c40984fb91564bfa91cf2d735aab002f
+- https://courses.cognitiveclass.ai/certificates/SQL and Relational Databases 101
 - 
 - 
 
