@@ -7,8 +7,8 @@
 - **School Year:** 2024 - Current
 
 ## Certifications
--  [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/NEW-CERTIFICATE-ID-GOES-HERE)
--  [Oracle Cloud Infrastructure Learning Subscription](https://catalog-education.oracle.com/pls/certview/sharebadge?id=34E32798E725164EB1D17FCCF52F08412417097731CCABB57201B506F01FEF47/NEW-CERTIFICATE-ID-GOES-HERE)
+-  [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates)
+-  [Oracle Cloud Infrastructure Learning Subscription](https://catalog-education.oracle.com/pls/certview/sharebadge?id=34E32798E725164EB1D17FCCF52F08412417097731CCABB57201B506F01FEF47)
 - 
 
 ## Skillsets
