@@ -1,5 +1,5 @@
-## Name
-- Wendell Fort B. De Jesus
+## About Me
+- I am a Information Technology student with a strong interest in software development and problem-solving. I am passionate about creating interactive and user-friendly web applications and am eager to gain real-world experience and continuously grow as a developer.
 
 ## Education
 - **Course:** Bachelor of Science in Information Technology
