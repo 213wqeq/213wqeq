@@ -4,7 +4,7 @@
 ## Education
 - **Course:** Bachelor of Science in Information Technology
 - **Institution:** New Era University 
-- **School Year:** 2022 - Current
+- **School Year:** 2024 - Current
 
 ## Certifications
 -  [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/NEW-CERTIFICATE-ID-GOES-HERE)
