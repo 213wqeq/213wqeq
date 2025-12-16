@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**213wqeq/213wqeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+I am an Information Technology student with a strong interest in **software development** and **problem-solving**. I am passionate about creating interactive and user-friendly web applications and am eager to gain real-world experience and continuously grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Education
+
+* **Course:** Bachelor of Science in Information Technology
+* **Institution:** New Era University
+* **School Year:** 2024 - Current
+
+---
+
+## Certifications
+## Certifications
+
+* **SQL and Relational Databases 101 Certificate**
+  <br>[View Certificate](https://courses.cognitiveclass.ai/certificates/c40984fb91564bfa91cf2d735aab002f)
+
+* **Oracle Cloud Infrastructure Learning Subscription**
+  <br>[View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=34E32798E725164EB1D17FCCF52F08412417097731CCABB57201B506F01FEF47)
+---
+
+## Skillsets
+
+| Category | Skills |
+| :--- | :--- |
+| **Programming Languages** | Java |
+| **Web Development** | HTML, CSS |
+| **Tools / Platforms** | Git, GitHub |
+| **Other Skills** | Problem-solving, clear communication |
